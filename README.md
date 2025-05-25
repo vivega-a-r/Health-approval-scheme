@@ -95,8 +95,8 @@ Feel free to explore and test all features live!
 This project was developed by a team of 3 members:
 
 - **Vivega A R** — [GitHub: vivega-a-r](https://github.com/vivega-a-r/Health-approval-scheme.git)  
-- **Member 2 Name** — [GitHub: Sumithra121](https://github.com/member2)  
-- **Member 3 Name** — [GitHub: Parkavi29706](https://github.com/member3)  
+- **Sumithra M** — [GitHub: Sumithra121](https://github.com/vivega-a-r/Health-approval-scheme.git)  
+- **Parkavi K** — [GitHub: Parkavi29706](https://github.com/member3)  
 
 
 ## 📌 How to Run
