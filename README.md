@@ -64,29 +64,6 @@ HDIMS is designed to help manage health scheme data more effectively across diff
 
 ---
 
-## 🖥 Screenshots
-
-> **Place all images in the `/public` folder.**
-
-### 🔐 Login Page
-![Login Page](public/login-page.png)
-
-### 🧑‍💻 Data Entry User Dashboard
-![Data Entry](public/data-entry-dashboard.png)
-
-### 🏥 Hospital Admin Dashboard
-![Hospital Admin](public/hospital-dashboard.png)
-
-### 🏛 District Admin Dashboard
-![District Admin](public/district-dashboard.png)
-
-### 🏢 State Admin Dashboard
-![State Admin](public/state-dashboard.png)
-
-### 🛡 Super Admin Dashboard
-![Super Admin](public/super-admin-dashboard.png)
-
----
 
 ## 🎯 Functional Requirements
 
@@ -106,28 +83,26 @@ HDIMS is designed to help manage health scheme data more effectively across diff
 - 📊 **Scalability**: Easily extendable for future modules.
 
 ---
+## 🚀 Live Demo
 
-## 📦 Folder Structure (VS Code)
+You can access the deployed application here:  
+➡️ [https://your-deploy-link.com](https://your-deploy-link.com)
 
----
+Feel free to explore and test all features live!
 
-## 👩‍💻 Author
+## 👩‍💻 Authors / Contributors
 
-**Vivega A R**  
-GitHub: [vivega-a-r](https://github.com/vivega-a-r)
+This project was developed by a team of 3 members:
 
----
+- **Vivega A R** — [GitHub: vivega-a-r](https://github.com/vivega-a-r/Health-approval-scheme.git)  
+- **Member 2 Name** — [GitHub: Sumithra121](https://github.com/member2)  
+- **Member 3 Name** — [GitHub: Parkavi29706](https://github.com/member3)  
 
-## 📜 License
-
-This project is licensed under the MIT License.
-
----
 
 ## 📌 How to Run
 
 1. Clone the repo  
-   `git clone https://github.com/your-username/hdims.git`
+   `git clone https://github.com/vivega-a-r/Health-approval-scheme.git`
 
 2. Open `index.html` in a browser (if static)  
    OR  
