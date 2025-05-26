@@ -86,7 +86,7 @@ HDIMS is designed to help manage health scheme data more effectively across diff
 ## 🚀 Live Demo
 
 You can access the deployed application here:  
-➡️ [https://your-deploy-link.com](https://your-deploy-link.com)
+v0-fully-functional-prototype.vercel.app
 
 Feel free to explore and test all features live!
 
@@ -96,7 +96,7 @@ This project was developed by a team of 3 members:
 
 - **Vivega A R** — [GitHub: vivega-a-r](https://github.com/vivega-a-r/Health-approval-scheme.git)  
 - **Sumithra M** — [GitHub: Sumithra121](https://github.com/vivega-a-r/Health-approval-scheme.git)  
-- **Parkavi K** — [GitHub: Parkavi29706](https://github.com/member3)  
+- **Parkavi K** — [GitHub: Parkavi29706](https://github.com/vivega-a-r/Health-approval-scheme.git)  
 
 
 ## 📌 How to Run
