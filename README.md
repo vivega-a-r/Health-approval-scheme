@@ -82,13 +82,6 @@ HDIMS is designed to help manage health scheme data more effectively across diff
 - 🧩 **Maintainability**: Modular and clean codebase.
 - 📊 **Scalability**: Easily extendable for future modules.
 
----
-## 🚀 Live Demo
-
-You can access the deployed application here:  
-v0-fully-functional-prototype.vercel.app
-
-Feel free to explore and test all features live!
 
 ## 👩‍💻 Authors / Contributors
 
@@ -110,11 +103,6 @@ This project was developed by a team of 3 members:
 
 ---
 
-## 📬 Contributions
-
-This is a project done for academic purposes and is open for learning contributions.
-
----
 
 
 
