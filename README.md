@@ -58,7 +58,7 @@ HDIMS is designed to help manage health scheme data more effectively across diff
 
 ## 🛠 Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript
+- **Frontend**: HTML, CSS, React.js
 - **UI Framework**: Tailwind CSS
 - **Deployment**: GitHub Pages (or Localhost)
 
